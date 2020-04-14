@@ -3,6 +3,7 @@
 
 # April 13, 2020
 
+
 stones = int(input())
 
 def winner(stones):
